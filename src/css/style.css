@@ -1,5 +1,5 @@
 body {
-    font-size: 16px;
+    font-size: 18px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -117,6 +117,11 @@ article {
 
 .lines::after {
     margin-right: -100%;
+}
+
+.projects-github a {
+    color: #4b4b4b;
+    text-decoration: none;
 }
 
 @media (max-width:992px) {
