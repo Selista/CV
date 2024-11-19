@@ -13,7 +13,7 @@ const experience = [
         "from": "2008",
         "to": '2011',
         "position": "The lawyer",
-        "description": "Conducting contract work (development of standard contracts, approval of draft contracts). Participation in claims work related to non-fulfillment (improper fulfillment) of contracts. Participation in the preparation of documents for filing with the court. Legal support for investigative journalism. Representing the interests of the company in court, economic court."
+        "description": "Conducting contract work (development of standard contracts, approval of draft contracts). Participation in claims work related to non-fulfillment (improper fulfillment) of contracts. Participation in the preparation of documents for filing with the court. Legal support for journalism investigative. Legal analysis of an advertising. Representing the interests of the company in court, economic court."
     },
     {
         "company": "The Vecherniye Vesti newspaper",
