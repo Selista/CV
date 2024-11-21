@@ -124,6 +124,16 @@ article {
     text-decoration: none;
 }
 
+.certificate {
+    display: flex;
+}
+
+.certificatehtml,
+.certificatejs,
+.certificatereact {
+    margin: 0px 2px;
+}
+
 @media (max-width:992px) {
 
     .cv-left h1,
@@ -147,18 +157,10 @@ article {
     }
 }
 
-@media (max-width:992px) {
-    .certificate-block img {
-        display: block;
-        max-width: 50%;
-        margin: 20px auto;
-    }
-}
-
 @media (max-width:576px) {
-    .certificate-block img {
+    .certificate {
         display: block;
-        max-width: 50%;
+        max-width: 70%;
         margin: 20px auto;
     }
 }

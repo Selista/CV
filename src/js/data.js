@@ -15,7 +15,7 @@ const data = {
         "Programming Languages: JavaScript (ES6+), HTML, CSS",
         "Frameworks and Libraries: React, Bootstrap, Node.js (basic)",
         "Web Development: Basic knowledge of HTML, CSS, and JavaScript for building single-page and multi-page applications ",
-        "Development Tools: Git, npm, Visual Studio Code",
+        "Development Tools: Git, npm, Visual Studio Code, Gulp",
     ],
     "education": [
         ["1994-2000", "Oles Honchar Dnipro National University"],
