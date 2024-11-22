@@ -12,10 +12,10 @@ const data = {
     "certificates_html": "images/certificate_html.jpg",
     "certificates_react": "images/certificate_react.jpg",
     "skills": [
-        "Programming Languages: JavaScript (ES6+), HTML, CSS",
+        "Languages: JavaScript (ES6+), HTML, CSS",
         "Frameworks and Libraries: React, Bootstrap, Node.js (basic)",
         "Web Development: Basic knowledge of HTML, CSS, and JavaScript for building single-page and multi-page applications ",
-        "Development Tools: Git, npm, Visual Studio Code, Gulp",
+        "Tools: Git, npm, Visual Studio Code, Gulp",
     ],
     "education": [
         ["1994-2000", "Oles Honchar Dnipro National University"],
@@ -23,16 +23,18 @@ const data = {
         ["2023", "ITGid education platform JavaScript v2.0 course"],
         ["2024", "ITGid education platform ReactJS course"],
     ],
-    "profile": "Motivated and detail-oriented entry-level JavaScript developer focusing on building responsive and user-friendly applications. Professional in the field of media law. Knowledge of languages: Ukrainian - Fluent (near-native), Russian - Native, English - B2(in progress). I can work both in a team and independently. Sociable, responsible, goal-oriented. Seeking an opportunity to contribute to a dynamic team and enhance my skills in front-end development.",
+    "profile": "Motivated and detail-oriented Junior Front-end Developer with a solid foundation in JavaScript, HTML, CSS, and React. Skilled in creating responsive web applications and collaborating effectively in team environments. Leveraging a background in media law and entrepreneurial experience to bring a unique perspective to problem-solving and project management. Fluent in Ukrainian (near-native) and Russian; English proficiency at B2 level (in progress).",
 
     "stages": [
-        "Built a fully responsive portfolio website using HTML, CSS, and JavaScript",
-        "Incorporated modern design trends and a responsive layout to enhance user experience using Bootstrap.",
-        "Deployed the website on the hosting platform.",
+        "Designed and developed a responsive personal website using HTML, CSS, JavaScript, and Bootstrap.",
+        "Published the site online to showcase projects and technical skills.",
     ],
     "stages_message": [
-        "Developed a create and share encrypted message web app using React, React Router, Bootstrap, Node.js, SQL.",
-        "Created an SQL database (MySQL) and set up interaction between Node.js and SQL.",
-        "Styled the application using Bootstrap",
+        "Built a web app with React, Node.js, and MySQL for secure message exchange.",
+        "Configured SQL database interactions and utilized Bootstrap for an intuitive UI design.",
+    ],
+    "hobbies": [
+        "Sports enthusiast with a passion for staying active and promoting teamwork. Dedicated to learning English to enhance communication in a professional environment.",
     ]
+
 };

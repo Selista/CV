@@ -5,7 +5,7 @@ const experience = [
         "from": "2004",
         "to": 'Present',
         "position": "The private entrepreneur",
-        "description": "Management of the Ukrainian designers online store. Assistance in concluding international contracts."
+        "description": "Managed an online store, negotiating and executing international contracts. Gained practical experience in project management, customer relations, and financial operations."
     },
     {
         "company": "The Tonis Television channel ",
@@ -13,7 +13,7 @@ const experience = [
         "from": "2008",
         "to": '2011',
         "position": "The lawyer",
-        "description": "Conducting contract work (development of standard contracts, approval of draft contracts). Participation in claims work related to non-fulfillment (improper fulfillment) of contracts. Participation in the preparation of documents for filing with the court. Legal support for journalism investigative. Legal analysis of an advertising. Representing the interests of the company in court, economic court."
+        "description": "Conducted legal analysis, contract negotiation, and represented the company in court. Improved analytical and communication skills through diverse legal challenges."
     },
     {
         "company": "The Vecherniye Vesti newspaper",
@@ -21,6 +21,6 @@ const experience = [
         "from": "2002",
         "to": '2007',
         "position": "The lawyer at the editorial office",
-        "description": "Pre-print legal examination of newspaper materials, legal support for journalistic investigations, representation of the interests of the editorial board in court, economic court."
+        "description": "Provided pre-publication legal reviews and supported journalistic investigations. Enhanced attention to detail and ability to meet tight deadlines under pressure."
     }
 ]
